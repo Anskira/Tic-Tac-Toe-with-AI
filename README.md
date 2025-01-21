@@ -10,7 +10,6 @@ This project implements a Tic-Tac-Toe game in Python with two modes: player vs. 
 ### Clone the Repository
 ```bash
 git clone https://github.com/yourusername/Tic-Tac-Toe-with-AI.git
-cd ofi-crossimpact
 ```
 
 ### Install the required packages
