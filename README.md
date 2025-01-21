@@ -19,5 +19,6 @@ cd ofi-crossimpact
  pip install -r requirements.txt
  ```
 
-### Play the game against a player
+### Playing the game
+
 
